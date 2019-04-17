@@ -4,7 +4,7 @@ This Repo is the host for all related code to this [website](http://www.intellec
 
 ## Build
 
-![AppVeyor](https://img.shields.io/appveyor/ci/TeejayParker/TeejayParker.github.io.svg?style=flat-square)
+![Website](https://img.shields.io/website/http/www.intellectually.me.svg?down_message=is%20not%20working%21&label=Intellectually.me&style=flat-square&up_color=darkblue&up_message=is%20working%20and%20is%20live%21)
 
 ## Tracking
 
