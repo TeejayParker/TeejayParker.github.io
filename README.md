@@ -18,6 +18,14 @@ I will not be accepting/merging any pull requests from outside contributors at t
 
 -Teejay Parker
 
+## Social
+
+![GitHub followers](https://img.shields.io/github/followers/TeejayParker.svg?label=Follow%20me%20on%20Github%21&style=social)
+
+![GitHub stars](https://img.shields.io/github/stars/TeejayParker/TeejayParker.github.io.svg?label=Star%20this%20repo%21&style=social)
+
+![Twitter Follow](https://img.shields.io/twitter/follow/majeye1.svg?label=Follow%20me%20on%20Twitter%21&style=social)
+
 ## License
 
 [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
