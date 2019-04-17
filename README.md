@@ -6,6 +6,8 @@ This Repo is the host for all related code to this [website](http://www.intellec
 
 ![Website](https://img.shields.io/website/http/www.intellectually.me.svg?down_message=is%20not%20working%21&label=Intellectually.me&style=flat-square&up_color=darkblue&up_message=is%20working%20and%20is%20live%21)
 
+![GitHub last commit](https://img.shields.io/github/last-commit/TeejayParker/TeejayParker.github.io.svg?style=flat-square)
+
 ## Tracking
 
 Feel free to watch and/or star this repo if you want to follow along with each iteration/merge.
