@@ -1,4 +1,5 @@
 # Intellectually.Me
+NOW DEPRECATED
 
 This Repo is the host for all related code to this [website](http://www.intellectually.me)
 
